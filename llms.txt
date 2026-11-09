@@ -1,0 +1,23 @@
+# Cloudvora.pk
+
+> Cloudvora is a digital solutions agency based in Dera Ghazi Khan, Pakistan. We build custom websites, POS and business software for restaurants, clinics, real estate and local brands in Pakistan and worldwide.
+
+## Services
+- Custom website development
+- Business software and restaurant POS systems
+- Website redesign and improvements
+- Custom chatbots (coming soon)
+
+## Pages
+- [Home](https://YOUR-DOMAIN/): what we do
+- [Work](https://YOUR-DOMAIN/work.html): live websites and POS systems we built
+- [Services](https://YOUR-DOMAIN/services.html): what we build and for which industries
+- [Why choose us](https://YOUR-DOMAIN/why-us.html)
+- [About](https://YOUR-DOMAIN/about.html)
+- [Contact](https://YOUR-DOMAIN/contact.html): WhatsApp +92 317 7954335, email Cloudvorapk@gmail.com
+
+## Contact
+- WhatsApp: +92 317 7954335
+- Email: Cloudvorapk@gmail.com
+- Instagram: https://www.instagram.com/cloudvora.pk/
+- Facebook: https://www.facebook.com/share/1DQjVZMwL2/
