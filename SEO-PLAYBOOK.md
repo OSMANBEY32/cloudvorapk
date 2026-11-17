@@ -11,7 +11,7 @@
 - Local signals: Dera Ghazi Khan, Pakistan in the footer, schema and meta tags; services written for restaurants, clinics, real estate and local brands.
 
 ## Do these in the first week (this is what moves rankings)
-1. Replace YOUR-DOMAIN everywhere, deploy, and open the live site once.
+1. Deploy, make cloudvoraglobal.vercel.app the primary domain in Vercel (other domains should redirect to it), and open the live site once.
 2. Google Search Console: add the domain, submit sitemap.xml, request indexing for the home page.
 3. Bing Webmaster Tools: import from Search Console.
 4. Google Business Profile: create a profile for Cloudvora (category: Website designer or Software company), address in Dera Ghazi Khan, the same phone and website. Keep name, address and phone identical everywhere.

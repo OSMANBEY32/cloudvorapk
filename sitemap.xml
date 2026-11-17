@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR-DOMAIN/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://YOUR-DOMAIN/work.html</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://YOUR-DOMAIN/services.html</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://YOUR-DOMAIN/why-us.html</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://YOUR-DOMAIN/about.html</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://YOUR-DOMAIN/contact.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/work.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/services.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/why-us.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/about.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/contact.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/restaurant-website-pos.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/clinic-website-design.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://cloudvoraglobal.vercel.app/real-estate-website-design.html</loc><lastmod>2026-11-08</lastmod></url>
 </urlset>

@@ -19,8 +19,7 @@ Static site (HTML, CSS, JavaScript). No build step is needed to host it. Ready f
 3. Framework Preset: **Other**. Leave build command and output directory empty. Deploy.
 
 ## Before going live (important for SEO)
-- Replace `https://YOUR-DOMAIN` with the real address in every file (VS Code: Ctrl+Shift+H, "Replace in files").
-  Files that contain it: all `.html` pages, `sitemap.xml`, `robots.txt`, `llms.txt`.
+- The site address is set to `https://cloudvoraglobal.vercel.app` in every page, `sitemap.xml`, `robots.txt` and `llms.txt`. If the address ever changes (for example a custom domain), ask for a rebuild so all of these are updated together.
 - Contact form email backup: create a free form at formspree.io and paste its link into `FORM_URL` at the top of `site.js`. WhatsApp works without it.
 - Optional: paste a Google Analytics ID into `GA` at the top of `site.js`.
 

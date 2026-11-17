@@ -9,15 +9,20 @@
 - Custom chatbots (coming soon)
 
 ## Pages
-- [Home](https://YOUR-DOMAIN/): what we do
-- [Work](https://YOUR-DOMAIN/work.html): live websites and POS systems we built
-- [Services](https://YOUR-DOMAIN/services.html): what we build and for which industries
-- [Why choose us](https://YOUR-DOMAIN/why-us.html)
-- [About](https://YOUR-DOMAIN/about.html)
-- [Contact](https://YOUR-DOMAIN/contact.html): WhatsApp +92 317 7954335, email Cloudvorapk@gmail.com
+- [Home](https://cloudvoraglobal.vercel.app/): what we do
+- [Work](https://cloudvoraglobal.vercel.app/work.html): live websites and POS systems we built
+- [Services](https://cloudvoraglobal.vercel.app/services.html): what we build and for which industries
+- [Why choose us](https://cloudvoraglobal.vercel.app/why-us.html)
+- [About](https://cloudvoraglobal.vercel.app/about.html)
+- [Contact](https://cloudvoraglobal.vercel.app/contact.html): WhatsApp +92 317 7954335, email Cloudvorapk@gmail.com
 
 ## Contact
 - WhatsApp: +92 317 7954335
 - Email: Cloudvorapk@gmail.com
 - Instagram: https://www.instagram.com/cloudvora.pk/
 - Facebook: https://www.facebook.com/share/1DQjVZMwL2/
+
+## Industries
+- [Restaurants and POS](https://cloudvoraglobal.vercel.app/restaurant-website-pos.html)
+- [Clinic websites](https://cloudvoraglobal.vercel.app/clinic-website-design.html)
+- [Real estate websites](https://cloudvoraglobal.vercel.app/real-estate-website-design.html)

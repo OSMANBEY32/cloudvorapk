@@ -203,5 +203,7 @@ details{padding:0}
 .skip{position:absolute;left:12px;top:8px;z-index:100;background:var(--mint);color:#02110b;padding:10px 16px;border-radius:8px;font-weight:700;transform:translateY(-300%)}
 .skip:focus{transform:none}html[dir=rtl] .skip{left:auto;right:12px}
 .fg .loc{margin-top:12px;max-width:34ch;font-size:13px}
+@media(min-width:861px){.fg{grid-template-columns:1.4fr 1fr 1fr 1fr}}
+.card p+em{margin:14px 0 0}
 .cp{justify-content:space-between;align-items:center}.legal{display:flex;gap:6px 18px}.cp .legal a{margin:0!important}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
